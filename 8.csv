@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Nicole Malkowski,Nicole,Malkowski,"Luemme, Inc.",www.cosabella.com
-Ben Hart,Ben,Hart,PalmerCash,www.palmercash.com
-Ed Camara,Ed,Camara,"Soccer 4 All, Inc.",www.soccer4all.com
-Joshua Vanderwel,Joshua,Vanderwel,Howies Hockey Tape,www.howieshockeytape.com
-Karen Bell,Karen,Bell,"K.B. Socks, Inc.",www.kbellsocks.com
-Andrew Redvanly,Andrew,Redvanly,Redvanly,www.redvanly.com
-Patrick Moriarty,Patrick,Moriarty,IVI Vision,www.ivivision.com
-Nick Tershay,Nick,Tershay,Diamond Supply Co.,www.diamondsupplyco.com
-Brandon Winey,Brandon,Winey,Urban Expressions,www.urbanexpressions.net
-Joshua Lang,Joshua,Lang,Black & Denim Apparel Company,www.blackanddenim.com
-Joshua Grant Waldron,Joshua,Waldron,Ball and Buck,www.ballandbuck.com
-Laura Chapman,Laura,Chapman,"Adina Design, Inc.",www.adinadesign.com
-Danica Perino Cauffield,Danica,Cauffield,Alixandra Collections,www.shopalix.com
-Gretchen Taylor,Gretchen,Taylor,Taylor Made Designs UK Ltd,www.taylormadedesigns.co.uk
-Jason Angsuvarn,Jason,Angsuvarn,"Jason Markk, Inc.",www.jasonmarkk.com
-Stacey Goldstein,Stacey,Goldstein,Lola Getts Active,www.lolagetts.com
-Rob Hocking,Rob,Hocking,Franco Bicycles,www.francobicycles.com
-Brian Chung,Brian,Chung,O.N.S Clothing,www.onsclothing.com
-Joe Hansen,Joe,Hansen,"D.J. Safety, Inc.",www.djsafety.com
-Ron Bar,Ron,Bar,"Orthofeet, Inc.",www.orthofeet.com
+First Last,First,Last,Company,Domain,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,phone,website,error,mailQuery,mailTimestamp,email,qualification,naf5_code,naf5_des,nb_employees,siren,siret,siret_address,siret_city,siret_zip,vat
+Luis Lucas,Luis,Lucas,Pedra Dura,www.pedradura.net,Mr,Pedra Dura,www.linkedin.com/company/pedra-dura,Luis,Luis Lucas,Lucas,www.linkedin.com/in/luis-lucas-7630a315,+351 912 228 748,www.pedradura.net,No email found,Luis Lucas | Pedra Dura | www.pedradura.net,2021-09-08T22:43:18.213Z,,,,,,,,,,,
+Sina Jurina,Sina,Jurina,Maison H�ro�ne,www.maisonheroine.com,Mrs,Maison Hrone,www.linkedin.com/company/mh-berlin-gmbh,Sina,Sina Jurina,Jurina,,+20 2 1040109,www.maisonheroine.com,,Sina Jurina | Maison H�ro�ne | www.maisonheroine.com,2021-09-08T22:43:35.472Z,sina@maisonheroine.com,nominative@pro,,,,,,,,,
+Jill Schwartz,Jill,Schwartz,Elements Jill Schwartz Inc,www.elementsjillschwartz.com,Mrs,Elements Jill Schwartz,www.linkedin.com/company/elements-jill-schwartz,Jill,Jill Schwartz,Schwartz,,+1 413-644-9994,www.elementsjillschwartz.com,No email found,Jill Schwartz | Elements Jill Schwartz Inc | www.elementsjillschwartz.com,2021-09-08T22:43:52.921Z,,,,,,,,,,,
+Bob Dapper,Bob,Dapper,Royal Spa Corporation,www.royalspa.com,Mr,Royal Spa Corporation,www.linkedin.com/company/royal-spa,Bob,Bob Dapper,Dapper,www.linkedin.com/in/bob-dapper-73a6618,+1 800-541-1248,www.royalspa.com,,Bob Dapper | Royal Spa Corporation | www.royalspa.com,2021-09-08T22:44:16.997Z,bob.dapper@royalspa.com,nominative@pro,,,,,,,,,
+Pierre Berthet,Pierre,Berthet,BERTHET Horlogerie depuis 1888,www.berthet.com,Mr,Berthet Horlogerie Depuis 1888,www.linkedin.com/company/berthet-horlogerie,Pierre,Pierre Berthet,Berthet,www.linkedin.com/in/berthet-horlogerie1888,+33 3 81 68 04 77,www.berthet.com,,Pierre Berthet | BERTHET Horlogerie depuis 1888 | www.berthet.com,2021-09-08T22:44:36.063Z,pierre@berthet.com,catch-all@pro,,,,,,,,,
+Lyn Skibell,Lyn,Skibell,Skibell Fine Jewelry,www.skibellfinejewelry.com,Mrs,Skibell Fine Jewelry,www.linkedin.com/company/skibell-fine-jewelry,Lyn,Lyn Skibell,Skibell,,,www.skibellfinejewelry.com,,Lyn Skibell | Skibell Fine Jewelry | www.skibellfinejewelry.com,2021-09-08T22:44:48.545Z,lyn@skibellfinejewelry.com,nominative@pro,,,,,,,,,
+Camille Eddera Vizzavona,Camille,Vizzavona,Eddera,www.eddera.com,,Eddera,www.linkedin.com/company/eddera,Camille,Camille Vizzavona,Vizzavona,,,www.eddera.com,,Camille Eddera Vizzavona | Eddera | www.eddera.com,2021-09-08T22:45:06.545Z,camille@eddera.com,nominative@pro,,,,,,,,,
+Robert Ely,Robert,Ely,York Jewellers,www.yorkjewellers.com.au,Mr,York Jewellers,www.linkedin.com/company/york-jewellers,Robert,Robert Ely,Ely,www.linkedin.com/in/robert-ely-a6b2703a,+61 2 4721 0780,www.yorkjewellers.com.au,No email found,Robert Ely | York Jewellers | www.yorkjewellers.com.au,2021-09-08T22:45:29.473Z,,,,,,,,,,,
+Benny De Kalo,Benny,Kalo,"Worthy, Inc.",www.worthy.com,Mr,"Worthy,",www.linkedin.com/company/worthy-com,Benny,Benny Kalo,Kalo,,,www.worthy.com,,"Benny De Kalo | Worthy, Inc. | www.worthy.com",2021-09-08T22:45:42.323Z,benny@worthy.com,nominative@pro,47.25Z,Commerce de détail de boissons en magasin spécialisé,0,793466566,79346656600023,Av Docteur Julien Lefèbvre,Villeneuve-Loubet,06270,FR19793466566
+Beste Manastir,Beste,Manastir,Manu Atelier,www.manuatelier.com,Mrs,Manu Atelier,www.linkedin.com/company/manu-atelier,Beste,Beste Manastir,Manastir,www.linkedin.com/in/beste-manastır-bağdatlı-b9bba246,+90 212 234 48 24,www.manuatelier.com,,Beste Manastir | Manu Atelier | www.manuatelier.com,2021-09-08T22:45:48.638Z,beste@manuatelier.com,nominative@pro,,,,,,,,,
+Miriam Salat,Miriam,Salat,"Bochic, Inc.",www.bochic.com,Mrs,"Bochic,",www.linkedin.com/company/bochic,Miriam,Miriam Salat,Salat,www.linkedin.com/in/miriam-salat-19188110,+1 212-632-1700,www.bochic.com,No email found,"Miriam Salat | Bochic, Inc. | www.bochic.com",2021-09-08T22:45:55.460Z,,,,,,,,,,,
+Helen Brueggemann,Helen,Brueggemann,April in Paris,www.aprilinparis.us,Mrs,April In Paris,www.linkedin.com/company/april-in-paris,Helen,Helen Brueggemann,Brueggemann,,,www.aprilinparis.us,No email found,Helen Brueggemann | April in Paris | www.aprilinparis.us,2021-09-08T22:46:08.444Z,,,68.20A,Location de logements,Unités non employeuses,530115401,53011540100016,57 Rue des Batignolles,Paris,75017,FR78530115401
+Oakland Pave,Oakland,Pave,Pav� Fine Jewelry,www.pavefinejewelry.com,Mr,Pav Fine Jewelry,www.linkedin.com/company/pave-fine-jewelry-design,Oakland,Oakland Pave,Pave,,,www.pavefinejewelry.com,No email found,Oakland Pave | Pav� Fine Jewelry | www.pavefinejewelry.com,2021-09-08T22:46:20.897Z,,,,,,,,,,,
+Martin Foden,Martin,Foden,Safari Gold,www.safarigold.com,Mr,Safari Gold,www.linkedin.com/company/safari-gold,Martin,Martin Foden,Foden,www.linkedin.com/in/safarigold,+1 209-742-2394,www.safarigold.com,,Martin Foden | Safari Gold | www.safarigold.com,2021-09-08T22:46:33.265Z,martin@safarigold.com,nominative@pro,,,,,,,,,
+Michele Leary,Michele,Leary,Pierce Jewelers,www.piercejewelers.com,Mrs,Pierce Jewelers,www.linkedin.com/company/pierce-jewelers,Michele,Michele Leary,Leary,www.linkedin.com/in/michele-leary-8bb90722,+31 75743333,www.piercejewelers.com,No email found,Michele Leary | Pierce Jewelers | www.piercejewelers.com,2021-09-08T22:46:44.850Z,,,,,,,,,,,
+Radhika Tandon,Radhika,Tandon,Isharya,www.isharya.com,Mrs,Isharya,www.linkedin.com/company/isharya,Radhika,Radhika Tandon,Tandon,,+33 5 00 01 00 00,www.isharya.com,,Radhika Tandon | Isharya | www.isharya.com,2021-09-08T22:46:57.626Z,radhika@isharya.com,nominative@pro,,,,,,,,,
+Katie Melamed Diamond,Katie,Diamond,Katie Diamond Jewelry,www.katiediamondjewelry.com,Mrs,Katie Diamond Jewelry,www.linkedin.com/company/katie-diamond-jewelry,Katie,Katie Diamond,Diamond,www.linkedin.com/in/katie-diamond-b889118,+1 201-857-3660,www.katiediamondjewelry.com,,Katie Melamed Diamond | Katie Diamond Jewelry | www.katiediamondjewelry.com,2021-09-08T22:47:03.967Z,katie@katiediamondjewelry.com,nominative@pro,,,,,,,,,
+Zara Thacker,Zara,Thacker,KIKI McDONOUGH,www.kiki.co.uk,Mrs,Kiki Mcdonough,www.linkedin.com/company/kiki-mcdonough-limited,Zara,Zara Thacker,Thacker,,+44 20 7730 3323,www.kiki.co.uk,,Zara Thacker | KIKI McDONOUGH | www.kiki.co.uk,2021-09-08T22:47:27.710Z,zara@kiki.co.uk,nominative@pro,,,,,,,,,
+Joan Ceccarelli,Joan,Ceccarelli,Timeless Designs,www.timelessdesigns.com,,Timeless Designs,www.linkedin.com/company/timeless-designs,Joan,Joan Ceccarelli,Ceccarelli,www.linkedin.com/in/joanceccarelli,,www.timelessdesigns.com,No email found,Joan Ceccarelli | Timeless Designs | www.timelessdesigns.com,2021-09-08T22:47:40.032Z,,,,,,,,,,,
+Kristina Yao,Kristina,Yao,"SFERRA Bros., Ltd.",www.sferra.com,Mrs,"Sferra Bros.,",www.linkedin.com/company/sferra,Kristina,Kristina Yao,Yao,www.linkedin.com/in/kristina-yao-03,+1 631-353-3137,www.sferra.com,No email found,"Kristina Yao | SFERRA Bros., Ltd. | www.sferra.com",2021-09-08T22:47:52.941Z,,,,,,,,,,,

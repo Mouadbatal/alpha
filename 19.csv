@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Steve Mayer,Steve,Mayer,"Bird Dog Bay, Inc.",www.birddogbay.com
-George Millette,George,Millette,Garnish,www.garnishapparel.com
-Steven Mercer,Steven,Mercer,"Da Kine Hawaii, Inc.",www.dakine.com
-Alan Romick,Alan,Romick,"Headsweats, Inc.",www.headsweats.com
-Leonardo Marangi,Leonardo,Marangi,Primo Fitness,www.primofitnessusa.com
-Bj Klotz,Bj,Klotz,McU Sports,www.mcusports.com
-Cordero Calleen,Cordero,Calleen,Calleen Cordero,www.calleencordero.com
-Dustin Goss,Dustin,Goss,POW Inc.,www.powgloves.com
-Josue Aminadab Rodriguez,Josue,Rodriguez,Diamond Supply Co.,www.diamondsupplyco.com
-Leonard Serrani,Leonard,Serrani,Proskins Ltd,www.proskins.co
-Sarah Wilkins,Sarah,Wilkins,Brackish,www.brackishbowties.com
-Marvin Morgan,Marvin,Morgan,Fresh Ego Kid,www.freshegokid.com
-Maria Grachvogel,Maria,Grachvogel,Maria Grachvogel,www.mariagrachvogel.com
-Boyd Hildebrand,Boyd,Hildebrand,Tuxedo Wearhouse,www.tuxedowearhouse.com
-Allie Mroczka,Allie,Mroczka,Alixandra Collections,www.shopalix.com
-Madalyn Prior Hull,Madalyn,Hull,Alice Walk,www.alicewalk.com
-Matthew John Lucero,Matthew,Lucero,Diamond Supply Co.,www.diamondsupplyco.com
-Bob Giammanco,Bob,Giammanco,2 Xl Corporation,www.2xlcorp.com
-Minttu Käenmäki,Minttu,Käenmäki,Emmy Clothing Company,www.emmy.fi
-Kelley Lemke,Kelley,Lemke,Royal Jewelers Inc,www.royaljewelers.com
+First Last,First,Last,Company,Domain,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,website,error,mailQuery,mailTimestamp,email,qualification,phone
+Joe Buttross,Joe,Buttross,Artisans Jewelers,www.artisansjewelers.com,Mr,Artisans Jewelers,www.linkedin.com/company/artisans-jewelers,Joe,Joe Buttross,Buttross,www.linkedin.com/in/joe-buttross-58609114,www.artisansjewelers.com,No email found,Joe Buttross | Artisans Jewelers | www.artisansjewelers.com,2021-09-08T23:18:09.582Z,,,
+Catherine Borzym,Catherine,Borzym,Kiwi Avenue,www.kiwiavenue.com,Mrs,Kiwi Avenue,,Catherine,Catherine Borzym,Borzym,www.linkedin.com/in/catherine-borzym,www.kiwiavenue.com,No email found,Catherine Borzym | Kiwi Avenue | www.kiwiavenue.com,2021-09-08T23:18:28.169Z,,,
+Leann Feldt,Leann,Feldt,Artisans Jewelers,www.artisansjewelers.com,Mrs,Artisans Jewelers,www.linkedin.com/company/artisans-jewelers,Leann,Leann Feldt,Feldt,www.linkedin.com/in/leann-feldt-046840a3,www.artisansjewelers.com,No email found,Leann Feldt | Artisans Jewelers | www.artisansjewelers.com,2021-09-08T23:18:35.116Z,,,
+Naomi Bartee,Naomi,Bartee,Loren Stewart Llc,www.lorenstewart.com,Mrs,Loren Stewart,www.linkedin.com/company/loren-stewart-llc,Naomi,Naomi Bartee,Bartee,,www.lorenstewart.com,,Naomi Bartee | Loren Stewart Llc | www.lorenstewart.com,2021-09-08T23:18:41.477Z,naomi@lorenstewart.com,nominative@pro,
+Evelyn Agnoff,Evelyn,Agnoff,Orbita Corporation,www.orbita.com,Mrs,Orbita Corporation,www.linkedin.com/company/orbita-corporation,Evelyn,Evelyn Agnoff,Agnoff,,www.orbita.com,,Evelyn Agnoff | Orbita Corporation | www.orbita.com,2021-09-08T23:19:03.194Z,evelyn@orbita.com,catch-all@pro,+91 2565300
+Jodi Slater,Jodi,Slater,bytten inc.,www.bytten.com,Mrs,Bytten,www.linkedin.com/company/bytten-inc-,Jodi,Jodi Slater,Slater,www.linkedin.com/in/jodileeslater,www.bytten.com,,Jodi Slater | bytten inc. | www.bytten.com,2021-09-08T23:19:38.031Z,jodi@bytten.com,nominative@pro,
+Caline Jarudi,Caline,Jarudi,Cacao Atlanta Chocolate Co.,www.cacaoatlanta.com,Mrs,Cacao Atlanta Chocolate,www.linkedin.com/company/cacao-atlanta-chocolate-co-,Caline,Caline Jarudi,Jarudi,,www.cacaoatlanta.com,,Caline Jarudi | Cacao Atlanta Chocolate Co. | www.cacaoatlanta.com,2021-09-08T23:19:50.116Z,caline@cacaoatlanta.com,nominative@pro,+1 404-892-8202
+Stephen Dweck,Stephen,Dweck,"Dweck Industries, Inc.",www.stephendweck.com,Mr,"Dweck Industries,",www.linkedin.com/company/stephen-dweck,Stephen,Stephen Dweck,Dweck,www.linkedin.com/in/stephen-dweck-791a4b22,www.stephendweck.com,,"Stephen Dweck | Dweck Industries, Inc. | www.stephendweck.com",2021-09-08T23:19:56.799Z,stephen@stephendweck.com,nominative@pro,+1 800-767-3037
+Jennifer Fisher,Jennifer,Fisher,Jennifer Fisher Jewelry,www.jenniferfisherjewelry.com,Mrs,Jennifer Fisher Jewelry,www.linkedin.com/company/jennifer-fisher-jewelry,Jennifer,Jennifer Fisher,Fisher,www.linkedin.com/in/kevin-fisher-42214647,www.jenniferfisherjewelry.com,,Jennifer Fisher | Jennifer Fisher Jewelry | www.jenniferfisherjewelry.com,2021-09-08T23:20:02.835Z,jennifer@jenniferfisherjewelry.com,nominative@pro,+1 888-255-0640
+Ashlee Nicole Willis,Ashlee,Willis,Garrett Leight California Optical,www.garrettleight.com,Mrs,Garrett Leight California Optical,www.linkedin.com/company/garrett-leight-california-optical,Ashlee,Ashlee Willis,Willis,www.linkedin.com/in/ashleewillis,www.garrettleight.com,,Ashlee Nicole Willis | Garrett Leight California Optical | www.garrettleight.com,2021-09-08T23:20:15.018Z,ashlee@garrettleight.com,nominative@pro,+31 3922100
+Paco Tormo,Paco,Tormo,Singularu,www.singularu.com,Mr,Singularu,www.linkedin.com/company/singularu,Paco,Paco Tormo,Tormo,www.linkedin.com/in/pacotormo,www.singularu.com,,Paco Tormo | Singularu | www.singularu.com,2021-09-08T23:20:21.660Z,paco@singularu.com,nominative@pro,+33 9 69 88 00 55
+Karen Agnoff Lampkin,Karen,Lampkin,Orbita Corporation,www.orbita.com,Mrs,Orbita Corporation,www.linkedin.com/company/orbita-corporation,Karen,Karen Lampkin,Lampkin,www.linkedin.com/in/karen-agnoff-lampkin-70057485,www.orbita.com,,Karen Agnoff Lampkin | Orbita Corporation | www.orbita.com,2021-09-08T23:20:28.118Z,karen@orbita.com,catch-all@pro,+91 2565300
+Gauri Tandon,Gauri,Tandon,Isharya,www.isharya.com,Mrs,Isharya,www.linkedin.com/company/isharya,Gauri,Gauri Tandon,Tandon,www.linkedin.com/in/gauri-tandon-77603a13,www.isharya.com,,Gauri Tandon | Isharya | www.isharya.com,2021-09-08T23:20:44.980Z,gauri@isharya.com,nominative@pro,+33 5 00 01 00 00
+Jodi Mcloughlin,Jodi,Mcloughlin,John Atencio Jewelry,www.johnatencio.com,Mrs,John Atencio Jewelry,www.linkedin.com/company/john-atencio-jewelry,Jodi,Jodi Mcloughlin,Mcloughlin,www.linkedin.com/in/jodi-mcloughlin-56955123,www.johnatencio.com,,Jodi Mcloughlin | John Atencio Jewelry | www.johnatencio.com,2021-09-08T23:20:51.978Z,jmcloughlin@johnatencio.com,nominative@pro,
+Steve Culver,Steve,Culver,"Love Heals, Llc",www.loveheals.com,Mr,"Love Heals,",www.linkedin.com/company/loveheals-designjewelry-patented-design-solutions,Steve,Steve Culver,Culver,www.linkedin.com/in/steve-culver-67a26617,www.loveheals.com,No email found,"Steve Culver | Love Heals, Llc | www.loveheals.com",2021-09-08T23:21:04.503Z,,,+1 805-640-6818
+Danielle May,Danielle,May,"Jesse James & Co., Inc.",www.jessejamesbeads.com,Mrs,"Jesse James & Co.,",www.linkedin.com/company/jesse-james-beads,Danielle,Danielle May,May,www.linkedin.com/in/danielle-may-77bb828b,www.jessejamesbeads.com,,"Danielle May | Jesse James & Co., Inc. | www.jessejamesbeads.com",2021-09-08T23:21:22.021Z,daniellemay@jessejamesbeads.com,catch-all@pro,
+Patricia Gavilan,Patricia,Gavilan,Five Star Jewelers,www.fivestarjewelers.com,Mrs,Five Star Jewelers,www.linkedin.com/company/five-star-jewelers,Patricia,Patricia Gavilan,Gavilan,www.linkedin.com/in/patricia-gavilan-aa5826155,www.fivestarjewelers.com,,Patricia Gavilan | Five Star Jewelers | www.fivestarjewelers.com,2021-09-08T23:21:28.909Z,patricia@fivestarjewelers.com,catch-all@pro,
+Raf Niclaes,Raf,Niclaes,Janna Conner,www.jannaconner.com,Mr,Janna Conner,www.linkedin.com/company/janna-conner-designs,Raf,Raf Niclaes,Niclaes,www.linkedin.com/in/rafniclaes,www.jannaconner.com,,Raf Niclaes | Janna Conner | www.jannaconner.com,2021-09-08T23:21:35.246Z,raf@jannaconner.com,nominative@pro,+1 213-741-2137
+Lepa Roskopp,Lepa,Roskopp,Misahara Jewelry,www.misahara.com,Mrs,Misahara Jewelry,www.linkedin.com/company/misahara-jewelry,Lepa,Lepa Roskopp,Roskopp,www.linkedin.com/in/lepa-galeb-roskopp-1b551660,www.misahara.com,,Lepa Roskopp | Misahara Jewelry | www.misahara.com,2021-09-08T23:21:46.870Z,lepa@misahara.com,nominative@pro,
+Stanley Beliar Cabrera,Stanley,Cabrera,"Ghurka, Inc.",www.ghurka.com,Mr,"Ghurka,",www.linkedin.com/company/ghurka,Stanley,Stanley Cabrera,Cabrera,,www.ghurka.com,,"Stanley Beliar Cabrera | Ghurka, Inc. | www.ghurka.com",2021-09-08T23:22:04.029Z,scabrera@ghurka.co,catch-all@pro,+1 833-782-6062

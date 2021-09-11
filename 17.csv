@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-David Lucas,David,Lucas,Handful Activewear,www.handful.com
-Maresa Sluder,Maresa,Sluder,Sister Sam LLC,www.bailey44.com
-Nina Cooper,Nina,Cooper,Nine West Distribution Corp,www.ninewest.com
-John Allen,John,Allen,Ivory Ella,www.ivoryella.com
-Tim Chapin,Tim,Chapin,Grey State,www.greystateapparel.com
-Chuck Melber,Chuck,Melber,"Nomad Goods, Inc.",www.hellonomad.com
-Melanie Disbrow,Melanie,Disbrow,Milk Snob,www.milksnob.com
-Boyd Hildrebrandt,Boyd,Hildrebrandt,Tuxedo Wearhouse,www.tuxedowearhouse.com
-Lydia Park Forstmann,Lydia,Forstmann,"Jack Rogers, Inc.",www.jackrogersusa.com
-Kelly Whitesell,Kelly,Whitesell,Eskell,www.eskell.com
-Hubert Guez,Hubert,Guez,"Genetic Denim, LLC",www.geneticlosangeles.com
-Melissa Weiler,Melissa,Weiler,Royal Jewelers Inc,www.royaljewelers.com
-Joan Wood,Joan,Wood,Tse,www.tsecashmere.com
-Gene Lumsden,Gene,Lumsden,Legacy Sports International Llc,www.legacysports.com
-Cynthia Herrera,Cynthia,Herrera,"Sun Bum, Llc",www.trustthebum.com
-Cally Rieman,Cally,Rieman,"KAL RIEMAN, Inc.",www.kalrieman.com
-Lily Anthony,Lily,Anthony,"Anthony Brands, Llc",www.anthony.com
-George Jenne,George,Jenne,Bandolier,www.bandolierstyle.com
-Lukas Sanchez,Lukas,Sanchez,Mission Belt,www.missionbelt.com
-Alivia Carlisto Marie,Alivia,Marie,Diamond Supply Co.,www.diamondsupplyco.com
+First Last,First,Last,Company,Domain,email,qualification,civility,company,company_linkedin,first_name,full_name,last_name,linkedin,phone,website,mailQuery,mailTimestamp,error,naf5_code,naf5_des,siren,siret,siret_address,siret_city,siret_zip,vat
+Ashlee Nicole Willis,Ashlee,Willis,Garrett Leight California Optical,www.garrettleight.com,ashlee@garrettleight.com,nominative@pro,Mrs,Garrett Leight California Optical,www.linkedin.com/company/garrett-leight-california-optical,Ashlee,Ashlee Willis,Willis,www.linkedin.com/in/ashleewillis,+31 3922100,www.garrettleight.com,Ashlee Nicole Willis | Garrett Leight California Optical | www.garrettleight.com,2021-09-08T23:09:10.055Z,,,,,,,,,
+Paco Tormo,Paco,Tormo,Singularu,www.singularu.com,paco@singularu.com,nominative@pro,Mr,Singularu,www.linkedin.com/company/singularu,Paco,Paco Tormo,Tormo,www.linkedin.com/in/pacotormo,+33 9 69 88 00 55,www.singularu.com,Paco Tormo | Singularu | www.singularu.com,2021-09-08T23:09:17.297Z,,,,,,,,,
+Karen Agnoff Lampkin,Karen,Lampkin,Orbita Corporation,www.orbita.com,karen@orbita.com,catch-all@pro,Mrs,Orbita Corporation,www.linkedin.com/company/orbita-corporation,Karen,Karen Lampkin,Lampkin,www.linkedin.com/in/karen-agnoff-lampkin-70057485,+91 2565300,www.orbita.com,Karen Agnoff Lampkin | Orbita Corporation | www.orbita.com,2021-09-08T23:09:28.596Z,,,,,,,,,
+Gauri Tandon,Gauri,Tandon,Isharya,www.isharya.com,gauri@isharya.com,nominative@pro,Mrs,Isharya,www.linkedin.com/company/isharya,Gauri,Gauri Tandon,Tandon,www.linkedin.com/in/gauri-tandon-77603a13,+33 5 00 01 00 00,www.isharya.com,Gauri Tandon | Isharya | www.isharya.com,2021-09-08T23:09:46.353Z,,,,,,,,,
+Jodi Mcloughlin,Jodi,Mcloughlin,John Atencio Jewelry,www.johnatencio.com,jmcloughlin@johnatencio.com,nominative@pro,Mrs,John Atencio Jewelry,www.linkedin.com/company/john-atencio-jewelry,Jodi,Jodi Mcloughlin,Mcloughlin,www.linkedin.com/in/jodi-mcloughlin-56955123,,www.johnatencio.com,Jodi Mcloughlin | John Atencio Jewelry | www.johnatencio.com,2021-09-08T23:10:04.708Z,,,,,,,,,
+Steve Culver,Steve,Culver,"Love Heals, Llc",www.loveheals.com,,,Mr,"Love Heals,",www.linkedin.com/company/loveheals-designjewelry-patented-design-solutions,Steve,Steve Culver,Culver,www.linkedin.com/in/steve-culver-67a26617,+1 805-640-6818,www.loveheals.com,"Steve Culver | Love Heals, Llc | www.loveheals.com",2021-09-08T23:10:17.636Z,No email found,,,,,,,,
+Danielle May,Danielle,May,"Jesse James & Co., Inc.",www.jessejamesbeads.com,daniellemay@jessejamesbeads.com,catch-all@pro,Mrs,"Jesse James & Co.,",www.linkedin.com/company/jesse-james-beads,Danielle,Danielle May,May,www.linkedin.com/in/danielle-may-225340133,,www.jessejamesbeads.com,"Danielle May | Jesse James & Co., Inc. | www.jessejamesbeads.com",2021-09-08T23:10:49.103Z,,,,,,,,,
+Patricia Gavilan,Patricia,Gavilan,Five Star Jewelers,www.fivestarjewelers.com,patricia@fivestarjewelers.com,catch-all@pro,Mrs,Five Star Jewelers,www.linkedin.com/company/five-star-jewelers,Patricia,Patricia Gavilan,Gavilan,www.linkedin.com/in/patricia-gavilan-aa5826155,,www.fivestarjewelers.com,Patricia Gavilan | Five Star Jewelers | www.fivestarjewelers.com,2021-09-08T23:10:56.271Z,,,,,,,,,
+Raf Niclaes,Raf,Niclaes,Janna Conner,www.jannaconner.com,raf@jannaconner.com,nominative@pro,Mr,Janna Conner,www.linkedin.com/company/janna-conner-designs,Raf,Raf Niclaes,Niclaes,www.linkedin.com/in/rafniclaes,+1 213-741-2137,www.jannaconner.com,Raf Niclaes | Janna Conner | www.jannaconner.com,2021-09-08T23:11:07.690Z,,,,,,,,,
+Lepa Roskopp,Lepa,Roskopp,Misahara Jewelry,www.misahara.com,lepa@misahara.com,nominative@pro,Mrs,Misahara Jewelry,www.linkedin.com/company/misahara-jewelry,Lepa,Lepa Roskopp,Roskopp,www.linkedin.com/in/lepa-galeb-roskopp-1b551660,,www.misahara.com,Lepa Roskopp | Misahara Jewelry | www.misahara.com,2021-09-08T23:11:14.612Z,,,,,,,,,
+Stanley Beliar Cabrera,Stanley,Cabrera,"Ghurka, Inc.",www.ghurka.com,scabrera@ghurka.co,catch-all@pro,Mr,"Ghurka,",www.linkedin.com/company/ghurka,Stanley,Stanley Cabrera,Cabrera,,+1 833-782-6062,www.ghurka.com,"Stanley Beliar Cabrera | Ghurka, Inc. | www.ghurka.com",2021-09-08T23:11:26.592Z,,,,,,,,,
+Kristen Rebecca Hard,Kristen,Hard,Cacao Atlanta Chocolate Co.,www.cacaoatlanta.com,kristen@cacaoatlanta.com,nominative@pro,Mr,Cacao Atlanta Chocolate,www.linkedin.com/company/cacao-atlanta-chocolate-co-,Kristen,Kristen Hard,Hard,www.linkedin.com/in/kristen-hard-2bb3806,+1 404-892-8202,www.cacaoatlanta.com,Kristen Rebecca Hard | Cacao Atlanta Chocolate Co. | www.cacaoatlanta.com,2021-09-08T23:11:33.387Z,,,,,,,,,
+Mashallah Ghouleh,Mashallah,Ghouleh,Mashallah,www.mashallah.us,,,,Mashallah,,,Mashallah Ghouleh,Mashallah Ghouleh,,+260 96 5349439,www.mashallah.us,Mashallah Ghouleh | Mashallah | www.mashallah.us,2021-09-08T23:12:47.602Z,No email found,68.20B,Location de terrains et d'autres biens immobiliers,829156462,82915646200014,22 Rue d’Eckbolsheim,Lingolsheim,67380,FR40829156462
+Alex Schulze,Alex,Schulze,4Ocean,www.4ocean.com,alex.schulze@4ocean.com,nominative@pro,Mr,4Ocean,www.linkedin.com/company/4oceanllc,Alex,Alex Schulze,Schulze,,+1 800-778-7879,www.4ocean.com,Alex Schulze | 4Ocean | www.4ocean.com,2021-09-08T23:12:59.384Z,,,,,,,,,
+Benendeeto Hassan,Benendeeto,Hassan,La Fiorentina,www.lafiorentina.com,,,Mr,La Fiorentina,www.linkedin.com/company/la-fiorentina,Hassan,Hassan Benendeeto,Benendeeto,www.linkedin.com/in/benedetto-hassan-99224323,,www.lafiorentina.com,Benendeeto Hassan | La Fiorentina | www.lafiorentina.com,2021-09-08T23:13:11.297Z,No email found,58..05,,334120888,33412088800014,40 Rue Emile Zola,Suresnes,92150,FR81334120888
+Laura Valle,Laura,Valle,Five Star Jewelers,www.fivestarjewelers.com,laura@fivestarjewelers.com,catch-all@pro,Mrs,Five Star Jewelers,www.linkedin.com/company/five-star-jewelers,Laura,Laura Valle,Valle,,,www.fivestarjewelers.com,Laura Valle | Five Star Jewelers | www.fivestarjewelers.com,2021-09-08T23:13:23.632Z,,,,,,,,,
+Shaheed Rawjee,Shaheed,Rawjee,Row-G,www.row-g.com,,,Mr,Row-G,www.linkedin.com/company/row-g,Shaheed,Shaheed Rawjee,Rawjee,,,www.row-g.com,Shaheed Rawjee | Row-G | www.row-g.com,2021-09-08T23:14:07.129Z,No email found,,,,,,,,
+Mimi So,Mimi,So,Mimi So International Llc,www.mimiso.com,mso@mimiso.com,nominative@pro,Mrs,Mimi So International,www.linkedin.com/company/mimi-so-international,Mimi,Mimi So,So,,+380 67 772 2882,www.mimiso.com,Mimi So | Mimi So International Llc | www.mimiso.com,2021-09-08T23:14:14.112Z,,,,,,,,,
+Kelly Weinberger,Kelly,Weinberger,WorldFinds,www.worldfinds.com,kelly@worldfinds.com,nominative@pro,Mrs,Worldfinds,www.linkedin.com/company/worldfinds,Kelly,Kelly Weinberger,Weinberger,www.linkedin.com/in/kelly-weinberger-503166a,+1 800-609-9303,www.worldfinds.com,Kelly Weinberger | WorldFinds | www.worldfinds.com,2021-09-08T23:14:30.347Z,,,,,,,,,
+Pat Sauter,Pat,Sauter,John Atencio Jewelry,www.johnatencio.com,,,Mr,John Atencio Jewelry,www.linkedin.com/company/john-atencio-jewelry,Pat,Pat Sauter,Sauter,,,www.johnatencio.com,Pat Sauter | John Atencio Jewelry | www.johnatencio.com,2021-09-08T23:14:48.718Z,No email found,,,,,,,,
