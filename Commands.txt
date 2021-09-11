@@ -1,0 +1,6 @@
+Commands: 
+
+cscript slmgr.vbs /ipk"Windows key" 
+cscript slmgr.vbs /skms kms.lotro.cc
+cscript slmgr.vbs /ato
+
