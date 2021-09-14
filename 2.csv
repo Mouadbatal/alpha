@@ -1,21 +1,21 @@
-First Last,First,Last,Company,Domain
-Udayan Bubna,Udayan,Bubna,Miss Chase,www.misschase.com
-Renu Modi,Renu,Modi,Gallery Espace,www.galleryespace.com
-Simone Arora,Simone,Arora,SIMONE.Naturally Inspired,www.simone.com
-Richa Sharma Gupta,Richa,Gupta,about faces,www.aboutfaces.co.in
-Rhythm Gupta,Rhythm,Gupta,myPAT | Everyone's personalised guru,www.mypat.in
-Pritam Singh,Pritam,Singh,Durian,www.durian.in
-Smriti Dubey,Smriti,Dubey,Sinnamon Fashions Private Limited,www.redesyn.com
-Anindya Mukherjee,Anindya,Mukherjee,Sonodyne Electronics Co Pvt Ltd,www.sonodyne.com
-Priyanka Sehgal,Priyanka,Sehgal,BuzzingBubs,www.buzzingbubs.com
-Apoorv Arora,Apoorv,Arora,Signori Armadio,www.signoriarmadio.com
-Rinu Varghese,Rinu,Varghese,Outlook Publishing (India) Pvt. Ltd.,www.outlookindia.com
-Mirza Asif Beg,Mirza,Beg,Asahi India Glass Ltd,www.aisglass.com
-Spoorthy Shetty,Spoorthy,Shetty,Bhabani Blunt Ltd.,www.bblunt.com
-Simol Bhansali,Simol,Bhansali,saree.com,www.saree.com
-Abdul Hakeem,Abdul,Hakeem,Libaas Products,www.libaasproducts.com
-Arjun Madhavan,Arjun,Madhavan,thinQbate,www.thinqbate.com
-Vikram Krishnan,Vikram,Krishnan,SAFE INFRATECH PRIVATE LIMITED - India,www.safeinfratech.com
-Rajendra Dabade,Rajendra,Dabade,STUDIO11 Salon & Spa,www.studio11.co
-Ravinder Burju,Ravinder,Burju,TEXCEL INFOTECH - India,www.texcelinfotech.com
-Divyanshu Asopa,,,21 Fools,www.21fools.com
+First Last,First,Last,Company,Domain,email,qualification,company,company_linkedin,full_name,last_name,website,mailQuery,mailTimestamp,civility,first_name,linkedin,phone,naf5_code,naf5_des,siren,siret,siret_address,siret_city,siret_zip,vat,error
+Udayan Bubna,Udayan,Bubna,Miss Chase,www.misschase.com,udayan@misschase.com,nominative@pro,Miss Chase,www.linkedin.com/company/miss-chase,Udayan Bubna,Udayan Bubna,www.misschase.com,Udayan Bubna | Miss Chase | www.misschase.com,2021-09-13T23:05:44.111Z,,,,,,,,,,,,,
+Renu Modi,Renu,Modi,Gallery Espace,www.galleryespace.com,renumodi@galleryespace.com,nominative@pro,Gallery Espace,www.linkedin.com/company/gallery-espace,Renu Modi,Modi,www.galleryespace.com,Renu Modi | Gallery Espace | www.galleryespace.com,2021-09-13T23:05:51.011Z,Mrs,Renu,www.linkedin.com/in/renu-modi-6197914,+91 11 2692 2947,,,,,,,,,
+Simone Arora,Simone,Arora,SIMONE.Naturally Inspired,www.simone.com,simone@simone.com,nominative@pro,Simone.naturally Inspired,www.linkedin.com/company/simone...naturally-inspired,Simone Arora,Arora,www.simone.com,Simone Arora | SIMONE.Naturally Inspired | www.simone.com,2021-09-13T23:05:57.928Z,Mrs,Simone,www.linkedin.com/in/simonearora,+91 22 7111 7700,,,,,,,,,
+Richa Sharma Gupta,Richa,Gupta,about faces,www.aboutfaces.co.in,richa@aboutfaces.co.in,nominative@pro,About Faces,www.linkedin.com/company/about-faces,Richa Gupta,Gupta,www.aboutfaces.co.in,Richa Sharma Gupta | about faces | www.aboutfaces.co.in,2021-09-13T23:06:04.446Z,Mrs,Richa,www.linkedin.com/in/richa-sharma-gupta-b4b8617,+91 98117 28585,68.20B,Location de terrains et d'autres biens immobiliers,851284588,85128458800015,22 Rue Traversière,Illkirch-Graffenstaden,67400,FR43851284588,
+Rhythm Gupta,Rhythm,Gupta,myPAT | Everyone's personalised guru,www.mypat.in,rhythm.gupta@mypat.in,nominative@pro,Mypat | Everyone's Personalised Guru,www.linkedin.com/company/mypat---my-performance-analysis-test,Rhythm Gupta,Gupta,www.mypat.in,Rhythm Gupta | myPAT | Everyone's personalised guru | www.mypat.in,2021-09-13T23:06:15.729Z,,Rhythm,,+91 1800 121 0206,,,,,,,,,
+Pritam Singh,Pritam,Singh,Durian,www.durian.in,pritam@durian.in,nominative@pro,Durian,www.linkedin.com/company/durian-industries-ltd,Pritam Singh,Singh,www.durian.in,Pritam Singh | Durian | www.durian.in,2021-09-13T23:06:22.846Z,Mr,Pritam,www.linkedin.com/in/pritam-singh-9a772423,+992 0116000,62.01Z,Programmation informatique,803854009,80385400900013,58 Avenue de Wagram,Paris,75017,FR31803854009,
+Smriti Dubey,Smriti,Dubey,Sinnamon Fashions Private Limited,www.redesyn.com,smriti@redesyn.com,nominative@pro,Sinnamon Fashions Private Limited,www.linkedin.com/company/redesyn,Smriti Dubey,Dubey,www.redesyn.com,Smriti Dubey | Sinnamon Fashions Private Limited | www.redesyn.com,2021-09-13T23:06:29.365Z,Mrs,Smriti,,,,,,,,,,,
+Anindya Mukherjee,Anindya,Mukherjee,Sonodyne Electronics Co Pvt Ltd,www.sonodyne.com,,,Sonodyne Electronics Co Pvt,www.linkedin.com/company/sonodyne-electronics-co-pvt-ltd,Anindya Mukherjee,Anindya Mukherjee,www.sonodyne.com,Anindya Mukherjee | Sonodyne Electronics Co Pvt Ltd | www.sonodyne.com,2021-09-13T23:06:36.214Z,,,,+91 98308 55260,,,,,,,,,No email found
+Priyanka Sehgal,Priyanka,Sehgal,BuzzingBubs,www.buzzingbubs.com,priyanka@buzzingbubs.com,nominative@pro,Buzzingbubs,www.linkedin.com/company/buzzing-bubs,Priyanka Sehgal,Sehgal,www.buzzingbubs.com,Priyanka Sehgal | BuzzingBubs | www.buzzingbubs.com,2021-09-13T23:06:48.659Z,Mrs,Priyanka,www.linkedin.com/in/priyanka-sehgal-61b6b65,,,,,,,,,,
+Apoorv Arora,Apoorv,Arora,Signori Armadio,www.signoriarmadio.com,apoorv@signoriarmadio.com,nominative@pro,Signori Armadio,www.linkedin.com/company/signoriarmadio,Arora Apoorv,Apoorv,www.signoriarmadio.com,Apoorv Arora | Signori Armadio | www.signoriarmadio.com,2021-09-13T23:07:01.170Z,Mrs,Arora,www.linkedin.com/in/apoorv-arora-78046bb8,,,,,,,,,,
+Rinu Varghese,Rinu,Varghese,Outlook Publishing (India) Pvt. Ltd.,www.outlookindia.com,,,Outlook Publishing Pvt.,www.linkedin.com/company/outlook,Varghese Rinu,Rinu,www.outlookindia.com,Rinu Varghese | Outlook Publishing (India) Pvt. Ltd. | www.outlookindia.com,2021-09-13T23:07:08.220Z,Mr,Varghese,,,,,,,,,,,No email found
+Mirza Asif Beg,Mirza,Beg,Asahi India Glass Ltd,www.aisglass.com,,,Asahi India Glass,www.linkedin.com/company/asahi-india-glass-limited,Mirza Beg,Beg,www.aisglass.com,Mirza Asif Beg | Asahi India Glass Ltd | www.aisglass.com,2021-09-13T23:07:15.057Z,Mr,Mirza,www.linkedin.com/in/mirza-asif-beg-a2466718,+91 22 6656 8700,,,,,,,,,No email found
+Spoorthy Shetty,Spoorthy,Shetty,Bhabani Blunt Ltd.,www.bblunt.com,spoorthyshetty@bblunt.com,nominative@pro,Bhabani Blunt,www.linkedin.com/company/bblunt,Spoorthy Shetty,Spoorthy Shetty,www.bblunt.com,Spoorthy Shetty | Bhabani Blunt Ltd. | www.bblunt.com,2021-09-13T23:07:21.863Z,,,,+290 17381,,,,,,,,,
+Simol Bhansali,Simol,Bhansali,saree.com,www.saree.com,simol@saree.com,nominative@pro,Saree.com,www.linkedin.com/company/saree-com,Simol Bhansali,Bhansali,www.saree.com,Simol Bhansali | saree.com | www.saree.com,2021-09-13T23:07:28.593Z,Mr,Simol,www.linkedin.com/in/simolbhansali,,,,,,,,,,
+Abdul Hakeem,Abdul,Hakeem,Libaas Products,www.libaasproducts.com,abdul@libaasproducts.com,nominative@pro,Libaas Products,,Abdul Hakeem,Hakeem,www.libaasproducts.com,Abdul Hakeem | Libaas Products | www.libaasproducts.com,2021-09-13T23:07:34.852Z,Mr,Abdul,www.linkedin.com/in/abdul-hakeem-911a0332,+91 120 427 4481,,,,,,,,,
+Arjun Madhavan,Arjun,Madhavan,thinQbate,www.thinqbate.com,arjun@thinqbate.com,nominative@pro,Thinqbate,www.linkedin.com/company/thinqbate,Arjun Madhavan,Madhavan,www.thinqbate.com,Arjun Madhavan | thinQbate | www.thinqbate.com,2021-09-13T23:07:47.502Z,Mr,Arjun,,+91 22 2857 9992,,,,,,,,,
+Vikram Krishnan,Vikram,Krishnan,SAFE INFRATECH PRIVATE LIMITED - India,www.safeinfratech.com,,,Safe Infratech Private Limited - India,www.linkedin.com/company/safe-infratech-private-limited---india,Vikram Krishnan,Krishnan,www.safeinfratech.com,Vikram Krishnan | SAFE INFRATECH PRIVATE LIMITED - India | www.safeinfratech.com,2021-09-13T23:07:54.225Z,Mr,Vikram,www.linkedin.com/in/vikram-krishnan-641a7843,,,,,,,,,,No email found
+Rajendra Dabade,Rajendra,Dabade,STUDIO11 Salon & Spa,www.studio11.co,rajendra@studio11.co,nominative@pro,Studio11 Salon & Spa,www.linkedin.com/company/studio-11-salon-and-spa,Rajendra Dabade,Dabade,www.studio11.co,Rajendra Dabade | STUDIO11 Salon & Spa | www.studio11.co,2021-09-13T23:08:10.890Z,Mr,Rajendra,,,,,,,,,,,
+Ravinder Burju,Ravinder,Burju,TEXCEL INFOTECH - India,www.texcelinfotech.com,,,Texcel Infotech - India,,Ravinder Burju,Burju,www.texcelinfotech.com,Ravinder Burju | TEXCEL INFOTECH - India | www.texcelinfotech.com,2021-09-13T23:08:17.359Z,Mr,Ravinder,www.linkedin.com/in/ravinder-burju-109aa47,,,,,,,,,,No email found
+Divyanshu Asopa,,,21 Fools,www.21fools.com,divyanshu@21fools.com,nominative@pro,21 Fools,www.linkedin.com/company/21-fools,Divyanshu Asopa,Asopa,www.21fools.com,Divyanshu Asopa | 21 Fools | www.21fools.com,2021-09-13T23:08:23.451Z,Mr,Divyanshu,www.linkedin.com/in/divyanshuasopa,+91 97833 83304,,,,,,,,,
